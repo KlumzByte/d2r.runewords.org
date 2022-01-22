@@ -13,7 +13,8 @@ Post feedback in the Issues tab.
 ### Version 1.0
 * Added new 2.4 Runewords - Pattern, Plague, Mist, Flickering Flame, Wisdom, Unbending Will and Obsession.
 * Changed the cube recipe "Upgrade Unique" to include set items. (Upcoming 2.4 change)
-* Fixed typos in all secions.
+* Fixed typos in all sections.
+* Fixed display of XX% Deadly strike, XX% Chance of Crushingblow, XX% Chance of Open Wounds, XX% Extra Gold from Monsters and XX% Better Chance of Getting Magic Items
 
 ### Support
 [Support the project here](https://www.buymeacoffee.com/klumz)
