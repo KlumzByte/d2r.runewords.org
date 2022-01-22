@@ -6,6 +6,7 @@ Post feedback in the Issues tab.
 
 ## Changelog
 ### Version 1.1
+* Changed the filter to support searching to parts of Runeword name, filtering for "Wish" would show the Runeword "Last Wish".
 * Improved the filter, its now possible to filter by Runeword name, Runeword Type, Rune (single rune) and by Level. (shows usable items with cLvl less or equal to input)
 * Added link to this page, in the html footer.
 
