@@ -7,7 +7,7 @@ Post feedback in the Issues tab.
 ## Changelog
 ### Version 1.1
 * Improved the filter, its now possible to filter by Runeword name, Runeword Type, Rune (single rune) and by Level (shows usable items with cLvl less than input)
-* Added link to this page, in html footer.
+* Added link to this page, in the html footer.
 
 
 ### Version 1.0
