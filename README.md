@@ -15,4 +15,5 @@ Post feedback in the Issues tab.
 * Changed the cube recipe "Upgrade Unique" to include set items. (Upcoming 2.4 change)
 * Fixed typos in all secions
 
+### Support
 [Support the project here](https://www.buymeacoffee.com/klumz)
