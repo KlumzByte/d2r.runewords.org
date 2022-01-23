@@ -5,7 +5,11 @@ My goal for [d2r.runewords.org](https://d2r.runewords.org) is to provide usable 
 Post feedback in the Issues tab.
 
 ## Changelog
+
+
 ### Version 1.1
+* Added sorting button, making it possible to sort by Name ASC/DESC and Level ASC/DESC.
+* Added warning text to Hoto runeword.
 * Changed the filter to support searching to parts of Runeword name, filtering for "Wish" would show the Runeword "Last Wish".
 * Improved the filter, its now possible to filter by Runeword name, Runeword Type, Rune (single rune) and by Level. (shows usable items with cLvl less or equal to input)
 * Added link to this page, in the html footer.
