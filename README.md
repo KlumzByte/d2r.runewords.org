@@ -8,7 +8,7 @@ Post feedback in the Issues tab.
 
 
 ### Version 1.1
-* Added sorting button, making it possible to sort by Name ASC/DESC and Level ASC/DESC.
+* Added sorting button, making it possible to sort runewords by Name ASC/DESC and Level ASC/DESC.
 * Added warning text to Hoto runeword.
 * Changed the filter to support searching for parts of Runeword name, filtering for "Wish" would show the Runeword "Last Wish".
 * Improved the filter, its now possible to filter by Runeword name, Runeword Type, Rune (single rune) and by Level. (shows usable items with cLvl less or equal to input)
