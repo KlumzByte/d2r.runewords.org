@@ -36,4 +36,5 @@ Post feedback in the Issues tab.
 
 ### Support
 [Support the project here](https://www.buymeacoffee.com/klumz)
+
 Contact: https://www.reddit.com/user/Klumz
