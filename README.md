@@ -4,8 +4,19 @@ My goal for [d2r.runewords.org](https://d2r.runewords.org) is to provide usable 
 
 Post feedback in the Issues tab.
 
-## Changelog
+## Roadmap TBD
 
+* Open Socket information.
+* Weapon types information.
+* Redesign of Menu.
+* Redesign of Cube and Crafting selection.
+* FCR/FBR/FHR Breakpoints.
+* Farming Areas with monster immunities.
+* Base Items.
+* Unique Items.
+* Set Items.
+
+## Changelog
 
 ### Version 1.1
 * Added hiding of placeholder text on focus.
