@@ -8,6 +8,8 @@ Post feedback in the Issues tab.
 
 
 ### Version 1.1
+* Added hiding of placeholder text on focus.
+* Improved sorting dropdown, added a single ASC/DESC button.
 * Added sorting button, making it possible to sort runewords by Name ASC/DESC and Level ASC/DESC.
 * Added warning text to Hoto runeword.
 * Changed the filter to support searching for parts of Runeword name, filtering for "Wish" would show the Runeword "Last Wish".
