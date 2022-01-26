@@ -19,6 +19,7 @@ Post feedback in the Issues tab.
 ## Changelog
 
 ### Version 1.1
+* Removed transparency in some font colors, to improve readability.
 * Added hiding of placeholder text on focus.
 * Improved sorting dropdown, added a single ASC/DESC button.
 * Added sorting button, making it possible to sort runewords by Name ASC/DESC and Level ASC/DESC.
