@@ -18,6 +18,8 @@ Post feedback in the Issues tab.
 * Unique Items.
 * Set Items.
 
+Alpha site [d2r.runewords.org](https://d2r.runewords.org:9443)
+
 ## Changelog
 
 ### Version 1.1
