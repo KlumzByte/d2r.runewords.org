@@ -18,7 +18,7 @@ Post feedback in the Issues tab.
 * Unique Items.
 * Set Items.
 
-Alpha site [d2r.runewords.org:9443](https://d2r.runewords.org:9443)
+Alpha site [d2r.runewords.org:9443](https://d2r.runewords.org:9443) missing features.
 
 ## Changelog
 
