@@ -8,6 +8,8 @@ Post feedback in the Issues tab.
 
 * Open Socket information.
 * Weapon types information.
+
+### Under development for Version 2.0
 * Redesign of Menu.
 * Redesign of Cube and Crafting selection.
 * FCR/FBR/FHR Breakpoints.
