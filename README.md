@@ -17,6 +17,7 @@ Post feedback in the Issues tab.
 * Base Items.
 * Unique Items.
 * Set Items.
+* Advanced filtering (runes: jah ber, stat:life, stat:mf, stat:dmr etc...)
 
 Alpha site [d2r.runewords.org:9443](https://d2r.runewords.org:9443) missing features.
 
