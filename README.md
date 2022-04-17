@@ -9,14 +9,14 @@ Post feedback in the Issues tab.
 ### Version 2.0
 * Total revamp of the site.
 * Now includes:
-* Runewords
-* Uniques
-* Sets
-* Bases
-* Farming Areas
-* Breakpoints
-* Cube Recipes
-* Crafting
+  * Runewords
+  * Uniques
+  * Sets
+  * Bases
+  * Farming Areas
+  * Breakpoints
+  * Cube Recipes
+  * Crafting
 * Advanced search filter for all items, check the help icon in the search bar.
 
 ### Version 1.1
