@@ -4,24 +4,20 @@ My goal for [d2r.runewords.org](https://d2r.runewords.org) is to provide usable 
 
 Post feedback in the Issues tab.
 
-## Roadmap TBD
-
-* Open Socket information.
-* Weapon types information.
-
-### Under development for Version 2.0
-* Redesign of Menu.
-* Redesign of Cube and Crafting selection.
-* FCR/FBR/FHR Breakpoints.
-* Farming Areas with monster immunities.
-* Base Items.
-* Unique Items.
-* Set Items.
-* Advanced filtering (runes: jah ber, stat:life, stat:mf, stat:dmr etc...)
-
-Alpha site [d2r.runewords.org:9443](https://d2r.runewords.org:9443) missing features.
-
 ## Changelog
+
+### Version 2.0
+* Total revamp of the site.
+* Now includes:
+** Runewords
+** Uniques
+** Sets
+** Bases
+** Farming Areas
+** Breakpoints
+** Cube Recipes
+** Crafting
+* Advanced search filter for all items, check the help icon in the search bar.
 
 ### Version 1.1
 * Removed transparency in some font colors, to improve readability.
