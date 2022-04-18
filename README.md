@@ -7,8 +7,7 @@ Post feedback in the Issues tab.
 ## Changelog
 
 ### Version 2.0
-* Total revamp of the site.
-* Now includes:
+* Total revamp of the site:
   * Runewords.
   * Uniques.
   * Sets.
