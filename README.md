@@ -17,7 +17,7 @@ Post feedback in the Issues tab.
   * Cube Recipes.
   * Crafting Recipes.
 * Advanced search filter for all items, check the help icon in the search bar.
-* Fixed problems with dropdown menus on IOS.
+* Fixed problem with dropdown menus on IOS.
 
 ### Version 1.1
 * Removed transparency in some font colors, to improve readability.
