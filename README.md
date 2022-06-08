@@ -18,6 +18,7 @@ Post feedback in the Issues tab.
   * Crafting Recipes.
 * Advanced search filter for all items, check the help icon in the search bar.
 * Fixed problem with dropdown menus on IOS.
+* Fixed some spelling mistakes.
 
 ### Version 1.1
 * Removed transparency in some font colors, to improve readability.
