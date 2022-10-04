@@ -6,6 +6,11 @@ Post feedback in the Issues tab.
 
 ## Changelog
 
+### Version 2.5
+* Added the new Sundering charms.
+* Changed the "Farming Areas" page to "Areas" which includes every hell difficulty zones.
+* Added "Terror Zones" marker on the "Areas" page.
+
 ### Version 2.0
 * Total revamp of the site:
   * Runewords.
@@ -29,7 +34,6 @@ Post feedback in the Issues tab.
 * Changed the filter to support searching for parts of Runeword name, filtering for "Wish" would show the Runeword "Last Wish".
 * Improved the filter, its now possible to filter by Runeword name, Runeword Type, Rune (single rune) and by Level. (shows usable items with cLvl less or equal to input)
 * Added link to this page, in the html footer.
-
 
 ### Version 1.0
 * Added new 2.4 Runewords - Pattern, Plague, Mist, Flickering Flame, Wisdom, Unbending Will and Obsession.
