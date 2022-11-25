@@ -10,6 +10,7 @@ Post feedback in the Issues tab.
 * Added the new Sundering charms.
 * Changed the "Farming Areas" page to "Areas" which includes every hell difficulty zones.
 * Added "Terror Zones" marker on the "Areas" page.
+* Fixed runes and stat filter.
 
 ### Version 2.0
 * Total revamp of the site:
