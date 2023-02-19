@@ -9,6 +9,7 @@ Post feedback in the Issues tab.
 ### Version 2.6
 * Added the new Runewords.
 * Changed the Terror Zones acordingly to the patch notes.
+* Removed the "Ladder & Single Player Only" note from the old ladder items.
 
 ### Version 2.5
 * Added the new Sundering charms.
