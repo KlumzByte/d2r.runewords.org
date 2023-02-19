@@ -6,6 +6,10 @@ Post feedback in the Issues tab.
 
 ## Changelog
 
+### Version 2.6
+* Added the new Runewords.
+* Changed the Terror Zones acordingly to the patch notes.
+
 ### Version 2.5
 * Added the new Sundering charms.
 * Changed the "Farming Areas" page to "Areas" which includes every hell difficulty zones.
