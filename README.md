@@ -6,6 +6,11 @@ Post feedback in the Issues tab.
 
 ## Changelog
 
+### Version 2.7
+* Added new Reign of the Warlock Runewords and Items.
+* All new items are marked with "Reign of the Warlock".
+* Minor fix to menu list on small screens.
+
 ### Version 2.6
 * Added the new Runewords.
 * Changed the Terror Zones acordingly to the patch notes.
